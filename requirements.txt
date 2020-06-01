@@ -1,0 +1,5 @@
+Django
+django-heroku
+django-mathfilters
+psycopg2
+gunicorn
